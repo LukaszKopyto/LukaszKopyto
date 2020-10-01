@@ -13,6 +13,7 @@
 My skills:
 
 ![React](https://img.shields.io/badge/-REACT-grey?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-REDUX-764ABC?style=for-the-badge&logo=Redux)
 ![React_Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=JavaScript)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
