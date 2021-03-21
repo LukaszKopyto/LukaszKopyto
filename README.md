@@ -11,7 +11,10 @@
                                                                                                         
 ```
 My skills:
-
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=for-the-badge&logo=Nuxt.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![React](https://img.shields.io/badge/-REACT-grey?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-REDUX-764ABC?style=for-the-badge&logo=Redux)
 ![React_Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&logo=React-Router&logoColor=white)
