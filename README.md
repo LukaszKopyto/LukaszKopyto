@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
-![typescript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=typescript)
+![typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=CSS3&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
