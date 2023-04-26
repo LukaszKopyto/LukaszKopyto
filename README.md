@@ -41,7 +41,7 @@
 
 #### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/lukasz-kopyto/" >![linkedin](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+<a href="mailto:lukasz.kopyto@gmail.com" >![GMAIL](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <!--
 **LukaszKopyto/LukaszKopyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
